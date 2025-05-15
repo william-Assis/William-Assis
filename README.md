@@ -1,10 +1,10 @@
 #  Olá! Eu sou William Assis 👋.
 
 ### 👦Sobre mim  : 
-- 👋 Me chamo **William Assis**, tenho 25 anos.
+- 👋 Me chamo **William Assis**, tenho 28 anos.
 - 📌  De Rio Branco, Acre, Brasil.
 - 🎓 Sou formado em Diversos **Cursos Online([Cerificados](#))**, **Documentações**, **Pesquisas** e muita **Prática**! 
-- 🎓 Formado em Sistemas de Infromação.
+- 🎓 Formado em Sistemas de Informação.
 - :star: Apaixonado por desafios e aprender coisas novas.
 - :star: Autodidata e amante da inovação.
 
